@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.maindiv {
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+.LoginLogo {
+  height: 100vh;
+  width: 50%;
+}
+.Loginform {
+  height: 100vh;
+  width: 50%;
+}
+.phone {
+  background-color: #00ced1;
+}
+form {
+  align-items: center;
+  margin: 120px 79px;
+}
+input[type="text"] {
+  border-radius: 10px;
+  border-color: cadetblue;
+}
+input[type="submit"] {
+  border-radius: 10px;
+  color: white;
+}
+label {
+  font-size: 1em;
+  font-weight: 400;
+}
+.star {
+  color: red;
+}
+.mandaty {
+  display: flex;
+}
+.indicate {
+  text-align: end;
+  margin-right: 20px;
+  color: red;
+}
+.startdiv {
+  margin: 68px 40px;
+}
+.newuser {
+  display: flex;
+  margin-top: 10px;
+}
+a:link {
+  color: #48d1cc;
+  text-decoration: none;
+  background-color: transparent;
+}
+.signupfro {
+  color: #00ced1 !important;
+}
